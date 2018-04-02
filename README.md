@@ -3,6 +3,10 @@
 
 ## Prerequisites
 - Install Pivtoal Cloud foundry tile - Reference : https://docs.pivotal.io/tiledev/2-0/tile-generator.html
+- Check out https://github.com/Axway-API-Management-Plus/Cloud-Foundry-Service-Broker-Sample
+- Goto the folder ( Cloud-Foundry-Service-Broker-Sample )
+- mvn clean install
+- Copy axway-apim-service-broker-x.x.x.jar to axway-apim-sb-tile/resources
 
 # Build Tile
 
